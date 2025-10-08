@@ -1,5 +1,5 @@
 <hr>
-<h1 align="center">I'm <a href="https://github.com/Aryagm">Adrián Cano<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">Soy Adrián Cano<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1>¡Acerca de mí! 😎</h1>
 
@@ -31,14 +31,16 @@ buenas prácticas de front-end para crear interfaces funcionales y atractivas.
 <h1>Algunos de mis proyectos 🎨</h1>
 <Br>
   
-[![ReadMe Card](https://github.com/4GeeksAcademy/SAE-Asociations)](https://github.com/4GeeksAcademy/SAE-Asociations)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=C137Adrian&repo=SAE-Asociations)](https://github.com/4GeeksAcademy/SAE-Asociations)
+
 
 <Br>
 
 <h1>Estadísticas de GitHub 📊</h1>
 <Br>
   
-[![Estadísticas](https://github.com/C137Adrian)](https://github.com/C137Adrian) [![Lenguajes](https://github.com/C137Adrian)](https://github.com/C137Adrian)
+[![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=C137Adrian&show_icons=true&theme=merko)](https://github.com/C137Adrian/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C137Adrian&layout=compact&theme=merko)](https://github.com/C137Adrian/github-readme-stats)
 
  
 <Br>
