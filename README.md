@@ -8,7 +8,6 @@ Especializado en back-end (APIs, bases de datos, optimización de servidores) y 
 buenas prácticas de front-end para crear interfaces funcionales y atractivas.
   
 <hr>
-<Br>
 <h1 align="center">Contacto 📬</h1>
 <Br>
 <p align="center">
@@ -18,29 +17,24 @@ buenas prácticas de front-end para crear interfaces funcionales y atractivas.
   
 <Br>
 <hr>
-
 <h1> ¡Herramientas! 🛠️</h1>
 <Br>
- 
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,react,)](https://skillicons.dev)
-  
 
 <Br>
 <hr>
-<Br>
 <h1>Algunos de mis proyectos 🎨</h1>
 <Br>
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=C137Adrian&repo=SAE-Asociations)](https://github.com/4GeeksAcademy/SAE-Asociations)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=C137Adrian&repo=SAE-Asociations)](https://github.com/4GeeksAcademy/SAE-Asociations)
 
 <Br>
 
 <h1>Estadísticas de GitHub 📊</h1>
 <Br>
-  
-[![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=C137Adrian&show_icons=true&theme=merko)](https://github.com/C137Adrian/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C137Adrian&layout=compact&theme=merko)](https://github.com/C137Adrian/github-readme-stats)
 
- 
+[![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=C137Adrian&show_icons=true&theme=merko)](https://github.com/C137Adrian/github-readme-stats)
+[![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=C137Adrian&layout=compact&theme=merko)](https://github.com/C137Adrian/github-readme-stats)
+
 <Br>
