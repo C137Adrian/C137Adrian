@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, soy Adrián Cano</h1>
+<h1 align="center">👋 Hola, soy Adrián Cano</h1>
 
 <p align="center">
   <strong>Full Stack Developer</strong> · Back-End Oriented · APIs · Databases · Performance
@@ -12,16 +12,11 @@
 
 ---
 
-## 🚀 Sobre mí
+## 🧠 Sobre mí
 
-Soy **Full Stack Developer** con especial foco en **Back-End**, creación de **APIs eficientes**, diseño de bases de datos y **optimización del rendimiento del servidor**.
+Soy **Full Stack Developer** con foco en **Back-End**, creación de **APIs eficientes**, gestión de bases de datos y optimización del rendimiento del servidor.
 
-Me gusta construir software **limpio, escalable y bien estructurado**, entendiendo **qué pasa por debajo** y por qué funciona.
-
-- 🧠 Python, Flask y SQL como base principal  
-- ⚙️ APIs REST, autenticación y arquitectura  
-- 📊 Datos, automatización e integración de IA  
-- 📚 Aprendizaje constante y mentalidad técnica
+Me gusta construir software **limpio, escalable y bien estructurado**, con mentalidad de **aprendizaje continuo**.
 
 ---
 
@@ -33,65 +28,73 @@ Me gusta construir software **limpio, escalable y bien estructurado**, entendien
 ![Django](https://img.shields.io/badge/Django-333?style=for-the-badge&logo=django)
 ![MySQL](https://img.shields.io/badge/MySQL-333?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-333?style=for-the-badge&logo=mongodb)
-
-- SQLAlchemy · JWT · REST APIs
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-333?style=for-the-badge)
 
 ---
 
 ### 🔹 Front-End
-![React](https://img.shields.io/badge/React-333?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-333?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css3)
+![TypeScript](https://img.shields.io/badge/TypeScript-333?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-333?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-333?style=for-the-badge&logo=bootstrap)
 
 ---
 
 ### 🔹 Machine Learning / LLMs
-- Scikit-learn · Numpy · Pandas  
-- LangChain · Gemini · Claude · ChatGPT  
-- Integración de modelos en aplicaciones reales
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-333?style=for-the-badge&logo=scikitlearn)
+![NumPy](https://img.shields.io/badge/NumPy-333?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-333?style=for-the-badge&logo=pandas)
+![LangChain](https://img.shields.io/badge/LangChain-333?style=for-the-badge)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-333?style=for-the-badge&logo=openai)
+![Claude](https://img.shields.io/badge/Claude-333?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-333?style=for-the-badge)
 
 ---
 
 ### 🔹 DevOps / Otros
-- Git · GitHub  
-- Render · AWS  
+![Git](https://img.shields.io/badge/Git-333?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)
+![AWS](https://img.shields.io/badge/AWS-333?style=for-the-badge&logo=amazonaws)
+![Render](https://img.shields.io/badge/Render-333?style=for-the-badge)
 
 ---
 
 ## 🧩 Proyecto Destacado
 
-### 🚀 SAE Associations — Full Stack App
+### 🚀 SAE Associations — Full Stack
 
-Aplicación web desarrollada en un proyecto intensivo de **2 meses**.
+Aplicación web desarrollada durante un proyecto intensivo de **2 meses**.
 
-- Backend con **Flask**
-- Frontend con **React + TypeScript**
-- Autenticación **JWT**
-- Base de datos **MySQL**
-- Integración de servicios externos
-- Despliegue en la nube
+- Backend: Flask  
+- Frontend: React + TypeScript  
+- Auth: JWT  
+- DB: MySQL  
+- Deploy en la nube
 
 🔗 **Repositorio:**  
 👉 https://github.com/C137Adrian/SAE-Asociations
-
-🧱 **Stack:**  
-Python · Flask · React · TypeScript · MySQL · SQLAlchemy · JWT
 
 ---
 
 ## 🏆 Logros
 
-- ✅ +5 proyectos **full-stack** con Python y JavaScript  
-- ⚡ Optimización de **APIs**, reduciendo tiempos de respuesta  
-- 🔌 Integración de servicios externos (pagos, email, auth, AWS)
+- +5 proyectos **full-stack** con Python y JavaScript  
+- Optimización del rendimiento de **APIs**  
+- Integración de servicios externos (pagos, email, auth, AWS)
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=C137Adrian&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C137Adrian&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🎯 Objetivo
 
-Seguir creciendo como **Back-End Developer**, creando **APIs robustas, escalables y seguras**, y participando en proyectos donde la **calidad del software** sea una prioridad real.
-
----
+Seguir creciendo como **Back-End Developer**, construyendo **APIs robustas, escalables y seguras**, participando en proyectos donde la **calidad del software** sea clave.
