@@ -1,54 +1,56 @@
-<!-- Banner superior -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=Hola%2C+soy+Adrián+Cano+Espinosa;Full+Stack+Developer;Apasionado+del+Back-End+y+las+APIs;Construyendo+soluciones+eficientes+y+escalables" alt="Typing Animation" />
-</p>
+# 👋 ¡Hola! Soy Adrián Cano Espinosa
+
+**Full Stack Developer** con foco en **Back‑End**, creación de **APIs eficientes**, gestión de bases de datos y optimización del rendimiento del servidor.  
+Me gusta construir soluciones limpias, escalables y bien estructuradas, con mentalidad de aprendizaje continuo.
 
 ---
 
-# 👋 Sobre mí
+## 🧠 Sobre mí
 
-Soy **Full Stack Developer** con especial interés en el **desarrollo Back‑End**, la creación de **APIs eficientes**, la gestión de bases de datos y la optimización del rendimiento del servidor.  
-Me gusta construir soluciones limpias, escalables y bien estructuradas, siempre con mentalidad de aprendizaje continuo.
-
----
-
-# 🧰 Tech Stack
-
-## 🔹 Back‑End
-<p>
-  <img src="https://skillicons.dev/icons?i=python,flask,django,mysql,mongodb" />
-</p>
-
-## 🔹 Front‑End
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,bootstrap" />
-</p>
-
-## 🔹 Machine Learning / LLMs
-<p>
-  <img src="https://skillicons.dev/icons?i=py" />  
-  LangChain · Scikit‑learn · Pandas · Numpy · Gemini · Claude · ChatGPT · MLOps
-</p>
-
-## 🔹 DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,aws" />
-</p>
+- Especializado en **Python + Flask**, **SQL** y **APIs REST**.  
+- Me interesa la **arquitectura de software**, el rendimiento y la calidad del código.  
+- Disfruto trabajando con datos, automatización y herramientas de IA.  
+- Curioso, constante y orientado a entender cómo funcionan las cosas por dentro.
 
 ---
 
-# 🧩 Proyecto destacado
+## 🧰 Tech Stack
 
-## 🚀 SAE Associations — Full Stack  
+### 🔹 Back‑End
+- **Lenguajes:** Python  
+- **Frameworks:** Flask, Django  
+- **Bases de datos:** MySQL, MongoDB  
+- **Otros:** SQLAlchemy, JWT, REST APIs  
+
+### 🔹 Front‑End
+- **Lenguajes:** JavaScript, TypeScript  
+- **Frameworks/Librerías:** React  
+- **Maquetación:** HTML, CSS, Bootstrap  
+
+### 🔹 Machine Learning / LLMs
+- **Librerías:** Scikit‑learn, Numpy, Pandas  
+- **LLMs / Frameworks:** LangChain, Gemini, Claude, ChatGPT  
+- **MLOps:** Integración de modelos en aplicaciones y servicios
+
+### 🔹 DevOps / Otros
+- Git, GitHub  
+- Render  
+- AWS  
+
+---
+
+## 🧩 Proyecto destacado
+
+### 🚀 SAE Associations — Full Stack  
 Aplicación web desarrollada durante un proyecto intensivo de 2 meses.  
 Incluye backend con **Flask**, frontend con **React**, autenticación **JWT**, base de datos **MySQL**, integración de servicios externos y despliegue en la nube.
 
-🔗 **Repositorio:** https://github.com/C137Adrian/SAE-Asociations  
-📦 **Stack:** Python, Flask, React, TypeScript, MySQL, SQLAlchemy, JWT, Git
+- 🔗 **Repositorio:** https://github.com/C137Adrian/SAE-Asociations  
+- 🧱 **Stack:** Python, Flask, React, TypeScript, MySQL, SQLAlchemy, JWT, Git  
 
 ---
 
-# 🏆 Logros
+## 🏆 Logros
 
 - Desarrollo de más de **5 proyectos full‑stack** con JavaScript y Python.  
 - **Optimización del rendimiento** de APIs, reduciendo tiempos de respuesta.  
@@ -56,23 +58,22 @@ Incluye backend con **Flask**, frontend con **React**, autenticación **JWT**, b
 
 ---
 
-# 📊 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C137Adrian&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C137Adrian&layout=compact&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=C137Adrian&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C137Adrian&layout=compact&theme=tokyonight)
 
 ---
 
-# 📫 Contacto
+## 📫 Contacto
 
-📧 Email: **adriancanoespinosa@gmail.com**  
-🔗 LinkedIn: https://www.linkedin.com/in/adrian-cano-espinosa  
-💻 GitHub: https://github.com/C137Adrian  
+- 📧 Email: **adriancanoespinosa@gmail.com**  
+- 🔗 LinkedIn: https://www.linkedin.com/in/adrian-cano-espinosa  
+- 💻 GitHub: https://github.com/C137Adrian  
 
 ---
 
-# 🎯 Objetivo
+## 🎯 Objetivo
 
 Seguir creciendo como desarrollador **Back‑End**, construyendo APIs robustas, escalables y seguras, y participando en proyectos donde la calidad del software sea una prioridad.
+
