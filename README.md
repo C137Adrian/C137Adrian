@@ -1,40 +1,78 @@
-<hr>
-<h1 align="center">Soy Adrián Cano<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
-<Br>
-<h1>¡Acerca de mí! 😎</h1>
+# 👋 ¡Hola! Soy Adrián Cano Espinosa
 
-Desarrollador Full Stack con experiencia en Python, Flask, SQL, JavaScript y React. 
-Especializado en back-end (APIs, bases de datos, optimización de servidores) y con 
-buenas prácticas de front-end para crear interfaces funcionales y atractivas.
-  
-<hr>
-<h1 align="center">Contacto 📬</h1>
-<Br>
-<p align="center">
-<a href="https://www.linkedin.com/in/adrian-cano-espinosa/" target="blank"><img align="center" src="https://img.shields.io/badge/Adrián-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>     
-<a href="https://www.github.com/Aryagm" target="blank"><img align="center" src="https://img.shields.io/badge/C137Adrian-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-  
-<Br>
-<hr>
-<h1> ¡Herramientas! 🛠️</h1>
-<Br>
+**Full Stack Developer** con especial interés en el **desarrollo Back‑End**, la creación de **APIs eficientes**, la gestión de bases de datos y la optimización del rendimiento del servidor.  
+Me gusta construir soluciones limpias, escalables y bien estructuradas, siempre con mentalidad de aprendizaje continuo.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,react,)](https://skillicons.dev)
+---
 
-<Br>
-<hr>
-<h1>Algunos de mis proyectos 🎨</h1>
-<Br>
+## 🧠 Sobre mí
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=C137Adrian&repo=SAE-Asociations)](https://github.com/4GeeksAcademy/SAE-Asociations)
+- Especializado en **Python + Flask**, **SQL** y **arquitecturas de APIs REST**.  
+- Me gusta diseñar sistemas **claros, mantenibles y robustos**.  
+- Interesado en automatización, datos y herramientas de IA.  
+- Curioso, constante y orientado a entender cómo funcionan las cosas por dentro.
 
-<Br>
+---
 
-<h1>Estadísticas de GitHub 📊</h1>
-<Br>
+## 🚀 Tecnologías y herramientas
 
-[![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=C137Adrian&show_icons=true&theme=merko)](https://github.com/C137Adrian/github-readme-stats)
-[![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=C137Adrian&layout=compact&theme=merko)](https://github.com/C137Adrian/github-readme-stats)
+### 🔹 Back‑End
+- Python · Flask · Django  
+- MySQL · MongoDB · SQLAlchemy  
+- REST APIs · JWT · Arquitectura de servidores  
 
-<Br>
+### 🔹 Front‑End
+- JavaScript · TypeScript  
+- React  
+- HTML · CSS · Bootstrap  
+
+### 🔹 Machine Learning / LLMs
+- LangChain  
+- Scikit‑learn  
+- Numpy · Pandas  
+- Gemini · Claude · ChatGPT  
+- MLOps  
+
+### 🔹 DevOps
+- Git · GitHub  
+- Render  
+- AWS  
+
+---
+
+## 🧩 Proyectos destacados
+
+### **SAE Associations — Full Stack**
+Aplicación web desarrollada durante un proyecto intensivo de 2 meses.  
+Incluye backend con **Flask**, frontend con **React**, autenticación **JWT**, base de datos **MySQL**, integración de servicios externos y despliegue en la nube.
+
+**Stack:** Python, Flask, React, TypeScript, MySQL, SQLAlchemy, JWT, Git.
+
+---
+
+## 🏆 Logros
+
+- Desarrollo de más de **5 proyectos full‑stack** con JavaScript y Python.  
+- **Optimización del rendimiento** de APIs, reduciendo tiempos de respuesta.  
+- Integración de servicios externos: pagos, email, JWT, AWS.
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=C137Adrian&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C137Adrian&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contacto
+
+- ✉️ Email: **adriancanoespinosa@gmail.com**  
+- 💼 LinkedIn: **https://www.linkedin.com/in/adrian-cano-espinosa**
+- 💻 GitHub: **github.com/C137Adrian**
+
+---
+
+## 🎯 Objetivo
+
+Seguir creciendo como desarrollador **Back‑End**, construyendo APIs robustas, escalables y seguras, y participando en proyectos donde la calidad del software sea una prioridad.
