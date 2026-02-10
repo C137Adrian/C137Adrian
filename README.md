@@ -88,10 +88,7 @@ Aplicación web desarrollada durante un proyecto intensivo de **2 meses**.
 
 ## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=C137Adrian&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C137Adrian&layout=compact&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=C137Adrian&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C137Adrian&layout=compact&theme=tokyonight)
 
 ---
 
